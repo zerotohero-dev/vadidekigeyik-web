@@ -43,9 +43,23 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 li {list-style-type: none;}
 </style>
 
+### {{ mic_ico() }}️ Sezon 22
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S022E04-Fiziksel-Bedenin-tesinde-Var-Olmak-e2u8ppk/a-abooq6t">S022E04: Fiziksel Bedenin Ötesinde Var Olmak - (36 dakika, 24 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S022E03-Ofis-Absrtlklerinde-Ananasla-Serinlemek-e2u3teg">S022E03: Ofis Absürtlüklerinde Ananasla Serinlemek - (30 dakika, 3 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S022E02-Ofislerin-Gizemli-Dnyas-e2tueil">S022E02: Ofislerin Gizemli Dünyası - (29 dakika, 48 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S022E01-E-posta-Ynetiminde-Inbox-Zero-Efsanesi-e2tq27k">S022E01: E-posta Yönetiminde Inbox Zero Efsanesi - (30 dakika, 23 saniye)</a>
+
+### {{ mic_ico() }}️ Sezon 21
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S021E04-Hedefler--Stratejiler-ve-Gerekler-e2tl06n">S021E04: Hedefler, Stratejiler ve Gerçekler - (53 dakika, 11 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S021E03-Troller--Trmanlar-ve-Staff-Tartmalar-e2tgejd">S021E03: Troller, Tırmanışlar ve Staff Tartışmaları - (35 dakika, 37 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S021E02-Kariyer-Tkanklklar-ve-irket-Politikalar-e2t8u7c">S021E02: Kariyer Tıkanıklıkları ve Şirket Politikaları - (49 dakika, 1 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S021E01-Yetitirilecek-Staff-Aranyor-e2t6u74">S021E01: "Yetiştirilecek Staff Aranıyor" - (39 dakika, 7 saniye)</a>
+
 ### {{ mic_ico() }}️ Sezon 20
-- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S019E02-Mdrm-kim--Ekibim-nerede-e2r6lbq/a-abkuras">S20E02: Kabak Yahnisinden Bluesky'a! - (39 dakika, 38 saniye)</a>
-- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S019E01-Silikon-Vadisinde-Poscasti-Olmak-e2r6k9o/a-abkuq23">S20E01: Silikon Vadisi'nde Dolap Savaşları - (39 dakika, 16 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S020E04-Ne-derinlikte-renmeliyiz-e2sjgtd">S020E04: Ne derinlikte öğrenmeliyiz? - (50 dakika, 10 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S020E03-Sene-olmu-2024-e2sjglu">S020E03: Sene olmuş 2024! - (30 dakika, 5 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S020E02-Kabak-Yahnisinden-Blueskya-e2se2uq">S20E02: Kabak Yahnisinden Bluesky'a! - (39 dakika, 38 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S020E01-Silikon-Vadisinde-Dolap-Savalar-e2sd1gp">S20E01: Silikon Vadisi'nde Dolap Savaşları - (39 dakika, 16 saniye)</a>
 
 ### {{ mic_ico() }}️ Sezon 19
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S019E04-Vadinin-Kedileri-e2r6mm7/a-abkusk6">
