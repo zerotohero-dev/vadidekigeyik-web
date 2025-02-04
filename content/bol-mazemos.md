@@ -9,14 +9,19 @@ tags = ["geyik"]
 
 ## Önceki Yayında Yarım Kalanlar / Sonraki Yayinda Konusulabilecekler
 
-* Year in review : 2024
-* New Year Resolutions
 * Progressive Career Document nedir, resume’den farki nedir?
 * Okul onemli mi? Yoksa sadece ingilizce bilsem, herhangi bir okulla bu is hallolur mu?
 * Hizli ve etkili ogrenme teknikleri
 * Technical Leadership nedir? yenir mi?
 * Teorik bilgim var ama is yerinde pratikde kullanamiyorum, cunku "sirk" gibi 
   sirket; ne yapmaliyim? (ref: [1])
+* [1] Selam, benim sorum solid prensipleri, best practise konularını teorik olarak
+  öğrensek de iş hayatında çoğu zaman uygulamıyorum. Dahil olduğum projelerde az
+  kullanıldığını, çoğu zaman spaghetti kod yazıldığını fark ediyorum.
+  — Bu durumda günün sonunda kalitesiz iş yaptığımı düşünüyorum ve bu çark böyle
+  dönüyor. Volkan abinin daha önce Roadmap yazısında yazdığı gibi “code is
+  nothing” diyerek devam mı etmeliyiz, yoksa bu pratikleri uygulayabileceğimiz
+  iş yerlerini mi tercih etmeliyiz? Umarım açıklayıcı bi şekilde sorabilmişimdir.
 * BOUN sizce şuan da nasıl bir durumda? 
   * Günümüz için BOUN'da okumak ne kadar mantıklı? 
 * Forum kulturu nedir? Bir forumda nasil davranilir?
@@ -46,11 +51,6 @@ tags = ["geyik"]
 * AI nereye gidiyor? Mesela 10 kisi calistiran bir sirket, AI geldi diye 8 
   kisi calistirma yoluna gider mi?
 * Las vegas: bu kadar ucuz olmamai oteller; daycare parasini kumardna kazanmak
-* universite anilari
-    * Kuzey ve Guney kampus arasindaki fark.
-    * Kulupler
-    * Bir muhendis olarak Bertland Russel’in ogrencisinden felsefe dersi alma 
-    manyakligi
 * Don’t outshine your master ve diger kurumsal ortam ipuclari.
 * Neden hayattayız? Yaşamın bir amacı var mı? Eğer varsa, bu amaç bir şeye
   inanmak ve ona bağlı kalmak mı? Yalnız hissetmemek için mi yaşıyoruz?
@@ -87,10 +87,4 @@ tags = ["geyik"]
 * politika ve “biz ne yapiyoruz burada lan?” sorusu
 * Kantinde scorpicor gormek.
 * acquisition nasil bir sey.
-* [1] Selam, benim sorum solid prensipleri, best practise konularını teorik olarak
-  öğrensek de iş hayatında çoğu zaman uygulamıyorum. Dahil olduğum projelerde az
-  kullanıldığını, çoğu zaman spaghetti kod yazıldığını fark ediyorum.
-  — Bu durumda günün sonunda kalitesiz iş yaptığımı düşünüyorum ve bu çark böyle 
-  dönüyor. Volkan abinin daha önce Roadmap yazısında yazdığı gibi “code is 
-  nothing” diyerek devam mı etmeliyiz, yoksa bu pratikleri uygulayabileceğimiz 
-  iş yerlerini mi tercih etmeliyiz? Umarım açıklayıcı bi şekilde sorabilmişimdir.
+
