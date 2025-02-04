@@ -13,7 +13,7 @@ paginate_by = 5
 template = "geyik.html"
 +++
 
-{{ geyik_notification(next="30 Mayıs, Cumartesi, sabah 10:00 pasifik saati") }}
+{{ geyik_notification(next="Bir Cumartesi, sabah 10:00 pasifik saati") }}
 {{ geyik_svg() }}
 
 **Vadideki Geyik** [Kampüs Discord Sunucusunda][kampus], Silikon
