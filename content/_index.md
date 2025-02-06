@@ -35,9 +35,13 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 Özgür yazılım projen mi var?
 
-[🍻 sen şu formu doldur 🍻][kab-form], biz de projeni dünyaya tantalım.
+[🍻 formu doldur 🍻][kab-form], bize konuk ol, projeni dünyaya tant.
+
+----
 
 [**🍻 Kodu Açık Bıraktık: Proje Katılım Formu 🍻**][kab-form]
+
+----
 
 [kab-form]: https://docs.google.com/forms/d/e/1FAIpQLScI1yXwQ-eB5xi3isgCU-ajsFQ8bRGIMKZzBfjqDQGEWEr8Og/viewform?usp=dialog
 
