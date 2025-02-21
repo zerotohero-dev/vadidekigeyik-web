@@ -61,6 +61,12 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 li {list-style-type: none;}
 </style>
 
+### {{ mic_ico() }}️ Sezon 23
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S023E4-Mangal--Kokore-ve-AI-Destekli-Tarayclar-e2v2g19/a-abpons4">S023E4: Mangal, Kokoreç ve AI Destekli Tarayıcılar - (39 dakika, 35 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S023E3-Akll-Sprgeler--Sensrler-ve-Tuhaf-Algoritmalar-e2usr2l/a-abphnqc">S023E3: Akıllı Süpürgeler, Sensörler ve Tuhaf Algoritmalar - (47 dakika, 19 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S023E2-Eitim-Sistemi-vs--Gerek-Dnya-e2uo5s0">S023E2: Eğitim Sistemi vs. Gerçek Dünya - (37 dakika, 59 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S023E01-0-4-Ortalamadan-2-7ye-e2uj405">S023E01: 0.4 Ortalamadan 2.7’ye - (31 dakika, 20 saniye)</a>
+
 ### {{ mic_ico() }}️ Sezon 22
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S022E04-Fiziksel-Bedenin-tesinde-Var-Olmak-e2u8ppk/a-abooq6t">S022E04: Fiziksel Bedenin Ötesinde Var Olmak - (36 dakika, 24 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S022E03-Ofis-Absrtlklerinde-Ananasla-Serinlemek-e2u3teg">S022E03: Ofis Absürtlüklerinde Ananasla Serinlemek - (30 dakika, 3 saniye)</a>
