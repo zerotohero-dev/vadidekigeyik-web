@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Zero to Hero - podcast</title>
+    <link rel="self" type="application/atom+xml" href="https://vadidekigeyik.com/tags/podcast/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://vadidekigeyik.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-05-18T00:00:00+00:00</updated>
+    <id>https://vadidekigeyik.com/tags/podcast/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Abone Ol</title>
+        <published>2024-05-18T00:00:00+00:00</published>
+        <updated>2024-05-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Volkan Özçelik
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://vadidekigeyik.com/subscribe/"/>
+        <id>https://vadidekigeyik.com/subscribe/</id>
+        
+        <content type="html" xml:base="https://vadidekigeyik.com/subscribe/">&lt;h2 id=&quot;abone-ol&quot;&gt;Abone Ol&lt;&#x2F;h2&gt;
+&lt;div style=&quot;clear:both&quot;&gt;&lt;&#x2F;div&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;vadideki-geyik&quot;&gt;Vadideki Geyik&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Nedir?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Standart yayınlar (&lt;em&gt;yayın başına ortalama 40 dakika&lt;&#x2F;em&gt;).&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;open.spotify.com&#x2F;show&#x2F;3v5BqfvAOqHAzktVU78F1Y&quot;&gt;Spotify&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;music.amazon.com&#x2F;podcasts&#x2F;vadideki-geyik&quot;&gt;Amazon Music&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;podcasts.apple.com&#x2F;us&#x2F;podcast&#x2F;vadideki-geyik&#x2F;id1708788946&quot;&gt;Apple Podcasts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;castbox.fm&#x2F;channel&#x2F;Vadideki-Geyik-id5603202&quot;&gt;Castbox&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.iheart.com&#x2F;podcast&#x2F;269-vadideki-geyik-123953624&#x2F;&quot;&gt;I ❤️ Radio&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;podcasts.google.com&#x2F;feed&#x2F;aHR0cHM6Ly9hbmNob3IuZm0vcy9lOWNjMDk3Yy9wb2RjYXN0L3Jzcw&quot;&gt;Google Podcasts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;diger-kanallar&quot;&gt;Diğer Kanallar&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Nedir?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Bazen sahne arkası, kamera ve ekran görüntüleri,
+ve sohbetlerimizi de paylaştığımız canlı yayın kayıtları.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vimeo.com&#x2F;showcase&#x2F;10689935&quot;&gt;Vimeo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;@Vadideki-Geyik&quot;&gt;YouTube&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.twitch.tv&#x2F;collections&#x2F;oUpJGrbMiRenrg&quot;&gt;Twitch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;anchor.fm&#x2F;s&#x2F;e9cc097c&#x2F;podcast&#x2F;rss&quot;&gt;RSS Beslemesi&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

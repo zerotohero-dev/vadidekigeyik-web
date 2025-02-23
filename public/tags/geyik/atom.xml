@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Zero to Hero - geyik</title>
+    <link rel="self" type="application/atom+xml" href="https://vadidekigeyik.com/tags/geyik/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://vadidekigeyik.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-08-04T00:00:00+00:00</updated>
+    <id>https://vadidekigeyik.com/tags/geyik/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Bol Mazemos</title>
+        <published>2024-08-04T00:00:00+00:00</published>
+        <updated>2024-08-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Volkan Özçelik
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://vadidekigeyik.com/bol-mazemos/"/>
+        <id>https://vadidekigeyik.com/bol-mazemos/</id>
+        
+        <content type="html" xml:base="https://vadidekigeyik.com/bol-mazemos/">&lt;h2 id=&quot;onceki-yayinda-yarim-kalanlar-sonraki-yayinda-konusulabilecekler&quot;&gt;Önceki Yayında Yarım Kalanlar &#x2F; Sonraki Yayinda Konusulabilecekler&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Progressive Career Document nedir, resume’den farki nedir?&lt;&#x2F;li&gt;
+&lt;li&gt;Okul onemli mi? Yoksa sadece ingilizce bilsem, herhangi bir okulla bu is hallolur mu?&lt;&#x2F;li&gt;
+&lt;li&gt;Hizli ve etkili ogrenme teknikleri&lt;&#x2F;li&gt;
+&lt;li&gt;Technical Leadership nedir? yenir mi?&lt;&#x2F;li&gt;
+&lt;li&gt;Teorik bilgim var ama is yerinde pratikde kullanamiyorum, cunku “sirk” gibi
+sirket; ne yapmaliyim? (ref: [1])&lt;&#x2F;li&gt;
+&lt;li&gt;[1] Selam, benim sorum solid prensipleri, best practise konularını teorik olarak
+öğrensek de iş hayatında çoğu zaman uygulamıyorum. Dahil olduğum projelerde az
+kullanıldığını, çoğu zaman spaghetti kod yazıldığını fark ediyorum.
+— Bu durumda günün sonunda kalitesiz iş yaptığımı düşünüyorum ve bu çark böyle
+dönüyor. Volkan abinin daha önce Roadmap yazısında yazdığı gibi “code is
+nothing” diyerek devam mı etmeliyiz, yoksa bu pratikleri uygulayabileceğimiz
+iş yerlerini mi tercih etmeliyiz? Umarım açıklayıcı bi şekilde sorabilmişimdir.&lt;&#x2F;li&gt;
+&lt;li&gt;BOUN sizce şuan da nasıl bir durumda?
+&lt;ul&gt;
+&lt;li&gt;Günümüz için BOUN’da okumak ne kadar mantıklı?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Forum kulturu nedir? Bir forumda nasil davranilir?
+&lt;ul&gt;
+&lt;li&gt;Nasil soru sorulur? Nasil soru sorulmaz?&lt;&#x2F;li&gt;
+&lt;li&gt;Neden insanlar ozel mesajla darlanmaz?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Diploma onemli mi?&lt;&#x2F;li&gt;
+&lt;li&gt;Jose Capablanca’ya Silikon Vadisi’nde nasil is teklifi nasil gelir?
+&lt;a href=&quot;https:&#x2F;&#x2F;www.chess.com&#x2F;players&#x2F;jose-raul-capablanca&quot;&gt;https:&#x2F;&#x2F;www.chess.com&#x2F;players&#x2F;jose-raul-capablanca&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Ogrenmek uzerine:
+&lt;ul&gt;
+&lt;li&gt;Nasil oluyor da sinavda dil ogreniliyor?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Sinyal isleme dersini niye iki kez aldim.&lt;&#x2F;li&gt;
+&lt;li&gt;Korfez bolgesinde 2 sene arabasiz nasil yasanir?&lt;&#x2F;li&gt;
+&lt;li&gt;Tefeciye ihtiyacim var, nereden bulurum?&lt;&#x2F;li&gt;
+&lt;li&gt;quote: “Yaya yaya okumayacaksin; odakli olarak giriseceksin;
+stratejin olacak, icerige gore stratejin dogrultusunda ilerleyeceksin.”
+&lt;ul&gt;
+&lt;li&gt;abi burada strateji olarak nasil davraniyorsun tam olarak? Hic bilmedigin
+bir konu hakkinda onden plani nasil yapabiliriz ki?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;WFH takım arkadaşı tarafından ghostlanmış olmak var ama ben harici kaç kişi
+yaşamıştır, bilmiyorum (ilintili: Cisco, pandemi oncesi bile hibriddi;
+kendini yalniz hissedebiliyordun, ayri bir alisma sureci o)&lt;&#x2F;li&gt;
+&lt;li&gt;cocuklara programlama ogretilmeli mi? erken degil mi? (Toprak 7 yasinda Mario
+game maker’da level tasarliyordu mesela; 12 yas icin Big Data, AI&#x2F;ML
+kurslari var. Yani cocuklar sanildigi kadar salak degil. Arti yaris ati gibi de
+yetistirilmiyorlar. Ortalama bir Vadi cocugu hem piyano caliyor, hem
+olimpik yuzuyor, hem kodunu yaziyor, hem arkadaslarina playdate’e gidiyor falan)&lt;&#x2F;li&gt;
+&lt;li&gt;Kariyerimin basindayim, ne gibi life hack’ler onerirsin ki sukela kariyerim olsun?&lt;&#x2F;li&gt;
+&lt;li&gt;AI nereye gidiyor? Mesela 10 kisi calistiran bir sirket, AI geldi diye 8
+kisi calistirma yoluna gider mi?&lt;&#x2F;li&gt;
+&lt;li&gt;Las vegas: bu kadar ucuz olmamai oteller; daycare parasini kumardna kazanmak&lt;&#x2F;li&gt;
+&lt;li&gt;Don’t outshine your master ve diger kurumsal ortam ipuclari.&lt;&#x2F;li&gt;
+&lt;li&gt;Neden hayattayız? Yaşamın bir amacı var mı? Eğer varsa, bu amaç bir şeye
+inanmak ve ona bağlı kalmak mı? Yalnız hissetmemek için mi yaşıyoruz?&lt;&#x2F;li&gt;
+&lt;li&gt;Open Source yapiyorum; kendi repom var, bol bol hackernews klonu ekliyorum,
+ama hic bir sirketin umrunda degil. Neden?&lt;&#x2F;li&gt;
+&lt;li&gt;Limoncello ve Joe Beda.&lt;&#x2F;li&gt;
+&lt;li&gt;Abi bir seyi merak ettim. Bu kadar isi bir arada nasil
+yapiyorsun? (multitasking).
+Belki bir podcast konusu da olabilir bu. Onemli bir meziyet bence&lt;&#x2F;li&gt;
+&lt;li&gt;Solak bardaklari—ozellikle kendim icin 😄 Tum dunya solaklara karsi.&lt;&#x2F;li&gt;
+&lt;li&gt;Ozan abi ben bi b&lt;code&gt;*&lt;&#x2F;code&gt;k yedim&lt;&#x2F;li&gt;
+&lt;li&gt;nasil geldik buralara&lt;&#x2F;li&gt;
+&lt;li&gt;I Tipi, T Tipi, ve M Tipi insanlar; hangisi daha iyi.&lt;&#x2F;li&gt;
+&lt;li&gt;JavaScript ogrenmek icin Haskell ogrenmek lazim mi?&lt;&#x2F;li&gt;
+&lt;li&gt;Bir işyerinde 2-3 yıldan fazla çalışmak bana mantıksız geliyordu ama aynı
+firmada 10 yıl gibi sürelerde çalışanlar görünce fikrim değişti.
+— Sizce bir iş yerinden ne zaman ayrılmalıyız?
+(Volkan not: bunu vadi ici ve vadi disi olarak ayri degerlendirmek lazim,
+cunku farkli dinamikler var)&lt;&#x2F;li&gt;
+&lt;li&gt;Hayriye Pıtır kimdir? ( https:&#x2F;&#x2F;www.facebook.com&#x2F;hayriye.pitir&#x2F; )
+&lt;ul&gt;
+&lt;li&gt;bu personayi onlira.co’da kullandim mi hatirlamiyorum; ama benzer
+personalar kullanmistim.&lt;&#x2F;li&gt;
+&lt;li&gt;MessengerFX zamani olusturmustum bu personalari; takipcileri vardi epey.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Yatirimci’ya ev ziyareti&lt;&#x2F;li&gt;
+&lt;li&gt;Intentional, unintentional biases and blind spots (Cinliler acayip matematige
+hakimmis; hintliler cok savsakmis; almanlar cok bodoslama konusuyor, soyle
+davraniyorsa kesin “gay”dir (1. nereden biliyorsun 2. SANA NE Anthony Queen!))&lt;&#x2F;li&gt;
+&lt;li&gt;Vidanjorle GTA&lt;&#x2F;li&gt;
+&lt;li&gt;Bir etkinligin nasil uc tane “ana” sponsoru olur?&lt;&#x2F;li&gt;
+&lt;li&gt;“Niye bizimle calismak istiyorsun?”&lt;&#x2F;li&gt;
+&lt;li&gt;Truth coexists&lt;&#x2F;li&gt;
+&lt;li&gt;dj’lik ve haber spikerligi&lt;&#x2F;li&gt;
+&lt;li&gt;okulu uzatmak&lt;&#x2F;li&gt;
+&lt;li&gt;politika ve “biz ne yapiyoruz burada lan?” sorusu&lt;&#x2F;li&gt;
+&lt;li&gt;Kantinde scorpicor gormek.&lt;&#x2F;li&gt;
+&lt;li&gt;acquisition nasil bir sey.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Merch</title>
+        <published>2024-05-18T00:00:00+00:00</published>
+        <updated>2024-05-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Volkan Özçelik
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://vadidekigeyik.com/merch/"/>
+        <id>https://vadidekigeyik.com/merch/</id>
+        
+        <content type="html" xml:base="https://vadidekigeyik.com/merch/">&lt;p&gt;Merch al; geyiğin bir parçası ol.&lt;&#x2F;p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;💁‍♀️ Resimlere tıkladığında sanal mağazaya yönlendirileceksin.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;vadideki-geyik-unisex-t-shirt&quot;&gt;Vadideki Geyik Unisex T-shirt&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;store.streamelements.com&#x2F;zerotoherodev&#x2F;product&#x2F;bE0eGwrvTqmspHDaiHH2ig&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;geyik.z2h.dev&#x2F;merch&#x2F;mens-t-shirt.png&quot;
+style=&quot;max-width:500px&quot;
+alt=&quot;Vadideki Geyik Unisex T-shirt&quot;&#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;vadideki-geyik-women-s-t-shirt&quot;&gt;Vadideki Geyik Women’s T-Shirt&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;store.streamelements.com&#x2F;zerotoherodev&#x2F;product&#x2F;x1P9jUu6Rviwv5RHZR57Yg&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;geyik.z2h.dev&#x2F;merch&#x2F;womens-t-shirt-deer.png&quot;
+style=&quot;max-width:500px&quot;
+alt=&quot;Vadideki Geyik Women’s T-shirt&quot;&#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;vadideki-geyik-women-s-t-shirt-disi-geyik-edition&quot;&gt;Vadideki Geyik Women’s T-Shirt (Dişi Geyik Edition)&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;store.streamelements.com&#x2F;zerotoherodev&#x2F;product&#x2F;DO79AWIlSGyihJjv-5TRqA&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;geyik.z2h.dev&#x2F;merch&#x2F;womens-t-shirt-doe.png&quot;
+style=&quot;max-width:500px&quot;
+alt=&quot;Vadideki Geyik Women’s T-shirt&quot;&#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;vadideki-geyik-zip-up-hoodie&quot;&gt;Vadideki Geyik Zip-Up Hoodie&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;store.streamelements.com&#x2F;zerotoherodev&#x2F;product&#x2F;651cfb6f5a3fccc6e9ce63dc&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;geyik.z2h.dev&#x2F;merch&#x2F;hoodie.png&quot;
+style=&quot;max-width:500px&quot;
+alt=&quot;Vadideki Geyik Zip-Up Hoodie&quot;&#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;vadideki-geyik-baseball-cap&quot;&gt;Vadideki Geyik Baseball Cap&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;store.streamelements.com&#x2F;zerotoherodev&#x2F;product&#x2F;wTOqqC6IRdez6d6pgzmfuw&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;geyik.z2h.dev&#x2F;merch&#x2F;baseball-cap.png&quot;
+style=&quot;max-width:500px&quot;
+alt=&quot;Vadideki Geyik Baseball Cap&quot;&#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;vadideki-geyik-baseball-cap-dark&quot;&gt;Vadideki Geyik Baseball Cap (Dark)&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;store.streamelements.com&#x2F;zerotoherodev&#x2F;product&#x2F;vmHunGibRCWq4zL_kgrPFA&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;geyik.z2h.dev&#x2F;merch&#x2F;baseball-cap-dark.png&quot;
+style=&quot;max-width:500px&quot;
+alt=&quot;Vadideki Geyik Baseball Cap&quot;&#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;vadideki-geyik-mug&quot;&gt;Vadideki Geyik Mug&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;store.streamelements.com&#x2F;zerotoherodev&#x2F;product&#x2F;651cf0ad301cfc51acb4dc0e?cartId=OJuliOY7Sha-25oeNUo6rg&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;geyik.z2h.dev&#x2F;merch&#x2F;mug.png&quot;
+style=&quot;max-width:500px&quot;
+alt=&quot;Vadideki Geyik Mug&quot;&#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;vadideki-geyik-mug-alternate-design&quot;&gt;Vadideki Geyik Mug (&lt;em&gt;alternate design&lt;&#x2F;em&gt;)&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;store.streamelements.com&#x2F;zerotoherodev&#x2F;product&#x2F;651cef7e6472477c40f72a13?cartId=OJuliOY7Sha-25oeNUo6rg&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;geyik.z2h.dev&#x2F;merch&#x2F;mug-alt.png&quot;
+style=&quot;max-width:500px&quot;
+alt=&quot;Vadideki Geyik Mug Alt&quot;&#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;vadideki-geyik-mousepad&quot;&gt;Vadideki Geyik Mousepad&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;store.streamelements.com&#x2F;zerotoherodev&#x2F;product&#x2F;651ceefec9b0535d81cd86e1?cartId=OJuliOY7Sha-25oeNUo6rg&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;geyik.z2h.dev&#x2F;merch&#x2F;mousepad.png&quot;
+style=&quot;max-width:500px&quot;
+alt=&quot;Vadideki Geyik Mousepad&quot;&#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;vadideki-geyik-deskmat&quot;&gt;Vadideki Geyik Deskmat&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;store.streamelements.com&#x2F;zerotoherodev&#x2F;product&#x2F;651cee877c1a7c5c4cba583f?cartId=OJuliOY7Sha-25oeNUo6rg&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;geyik.z2h.dev&#x2F;merch&#x2F;deskmat.png&quot;
+style=&quot;max-width:500px&quot;
+alt=&quot;Vadideki Geyik Deskmat&quot;&#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Abone Ol</title>
+        <published>2024-05-18T00:00:00+00:00</published>
+        <updated>2024-05-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Volkan Özçelik
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://vadidekigeyik.com/subscribe/"/>
+        <id>https://vadidekigeyik.com/subscribe/</id>
+        
+        <content type="html" xml:base="https://vadidekigeyik.com/subscribe/">&lt;h2 id=&quot;abone-ol&quot;&gt;Abone Ol&lt;&#x2F;h2&gt;
+&lt;div style=&quot;clear:both&quot;&gt;&lt;&#x2F;div&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;vadideki-geyik&quot;&gt;Vadideki Geyik&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Nedir?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Standart yayınlar (&lt;em&gt;yayın başına ortalama 40 dakika&lt;&#x2F;em&gt;).&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;open.spotify.com&#x2F;show&#x2F;3v5BqfvAOqHAzktVU78F1Y&quot;&gt;Spotify&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;music.amazon.com&#x2F;podcasts&#x2F;vadideki-geyik&quot;&gt;Amazon Music&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;podcasts.apple.com&#x2F;us&#x2F;podcast&#x2F;vadideki-geyik&#x2F;id1708788946&quot;&gt;Apple Podcasts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;castbox.fm&#x2F;channel&#x2F;Vadideki-Geyik-id5603202&quot;&gt;Castbox&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.iheart.com&#x2F;podcast&#x2F;269-vadideki-geyik-123953624&#x2F;&quot;&gt;I ❤️ Radio&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;podcasts.google.com&#x2F;feed&#x2F;aHR0cHM6Ly9hbmNob3IuZm0vcy9lOWNjMDk3Yy9wb2RjYXN0L3Jzcw&quot;&gt;Google Podcasts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;diger-kanallar&quot;&gt;Diğer Kanallar&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Nedir?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Bazen sahne arkası, kamera ve ekran görüntüleri,
+ve sohbetlerimizi de paylaştığımız canlı yayın kayıtları.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vimeo.com&#x2F;showcase&#x2F;10689935&quot;&gt;Vimeo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;@Vadideki-Geyik&quot;&gt;YouTube&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.twitch.tv&#x2F;collections&#x2F;oUpJGrbMiRenrg&quot;&gt;Twitch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;anchor.fm&#x2F;s&#x2F;e9cc097c&#x2F;podcast&#x2F;rss&quot;&gt;RSS Beslemesi&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
