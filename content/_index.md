@@ -61,6 +61,20 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 li {list-style-type: none;}
 </style>
 
+### {{ mic_ico() }}️ Sezon 25
+- {{ play_ico() }} <a href="">S025E04: </a>
+- {{ play_ico() }} <a href="">S024E03:</a>
+- {{ play_ico() }} <a href="">S024E02:</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S025E01-Windows-11de-AI-lgnl-Kullancy-Bunaltan-Yenilikler-e35h2t0">S025E01: Windows 11’de AI Çılgınlığı: Kullanıcıyı Bunaltan Yenilikler! - (31 dakika, 43 saniye)</a>
+
+
+### {{ mic_ico() }}️ Sezon 24
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S024E04-LeetCode-Ezberiyle-Nereye-Kadar-e35h1us">S024E04: LeetCode Ezberiyle Nereye Kadar? - (36 dakika, 40 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S024E03-Python-mu-JavaScript-mi--Mlakatlarda-Dil-Tercihi-e314391">S024E03: Python mu JavaScript mi? Mülakatlarda Dil Tercihi - (49 dakika, 19 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S024E02-lgin-Konferans-Deneyimleri-e2vog7m">S024E02: İlginç Konferans Deneyimleri - (40 dakika, 26 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S024E01-ehir-Hayatnn-Renkleri-Kediler--Rakunlar-ve-Teknoloji-e2vdvt4">S024E01: Şehir Hayatının Renkleri: Kediler, Rakunlar ve Teknoloji - (31 dakika, 20 saniye)</a>
+
+
 ### {{ mic_ico() }}️ Sezon 23
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S023E4-Mangal--Kokore-ve-AI-Destekli-Tarayclar-e2v2g19/a-abpons4">S023E4: Mangal, Kokoreç ve AI Destekli Tarayıcılar - (39 dakika, 35 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S023E3-Akll-Sprgeler--Sensrler-ve-Tuhaf-Algoritmalar-e2usr2l/a-abphnqc">S023E3: Akıllı Süpürgeler, Sensörler ve Tuhaf Algoritmalar - (47 dakika, 19 saniye)</a>
