@@ -37,11 +37,11 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 
 [🍻 formu doldur 🍻][kab-form], bize konuk ol, projeni dünyaya tant.
 
-----
+---
 
 [**🍻 Kodu Açık Bıraktık: Proje Katılım Formu 🍻**][kab-form]
 
-----
+---
 
 [kab-form]: https://docs.google.com/forms/d/e/1FAIpQLScI1yXwQ-eB5xi3isgCU-ajsFQ8bRGIMKZzBfjqDQGEWEr8Og/viewform?usp=dialog
 
@@ -53,7 +53,7 @@ hakkında kaliteli geyik çevirdiğimiz bir podcast.
 - {{ icon_team() }} [Biz Kimiz](@/team.md)
 - {{ icon_merch() }} [Geyik Merch](https://geyik.store/)
 - {{ icon_mazemos() }} [Bol Mazemos](@/bol-mazemos.md)
-- {{ icon_kampus() }} [Kampus (*Discord*)](https://discord.gg/kampus)
+- {{ icon_kampus() }} [Kampus (_Discord_)](https://discord.gg/kampus)
 
 ## Yayınlar
 
@@ -62,53 +62,59 @@ li {list-style-type: none;}
 </style>
 
 ### {{ mic_ico() }}️ Sezon 25
-- {{ play_ico() }} <a href="">S025E04: </a>
-- {{ play_ico() }} <a href="">S024E03:</a>
-- {{ play_ico() }} <a href="">S024E02:</a>
+
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S025E04-Tornavidann-zinde-Kalite--Tasarm-ve-Mteri-Sadakati-e36jm0j">S025E04: Tornavidanın İzinde: Kalite, Tasarım ve Müşteri Sadakati</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S025E03-AI-ile-Ayn-Evde-Yaanr-m-e35r09l">S025E03: AI ile Aynı Evde Yaşanır mı?</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S025E02-Hesap-Deitirmek-in-Dua-Etmeniz-Gerekebilir-e35qvug">S025E02: Hesap Değiştirmek İçin Dua Etmeniz Gerekebilir</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S025E01-Windows-11de-AI-lgnl-Kullancy-Bunaltan-Yenilikler-e35h2t0">S025E01: Windows 11’de AI Çılgınlığı: Kullanıcıyı Bunaltan Yenilikler! - (31 dakika, 43 saniye)</a>
 
-
 ### {{ mic_ico() }}️ Sezon 24
+
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S024E04-LeetCode-Ezberiyle-Nereye-Kadar-e35h1us">S024E04: LeetCode Ezberiyle Nereye Kadar? - (36 dakika, 40 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S024E03-Python-mu-JavaScript-mi--Mlakatlarda-Dil-Tercihi-e314391">S024E03: Python mu JavaScript mi? Mülakatlarda Dil Tercihi - (49 dakika, 19 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S024E02-lgin-Konferans-Deneyimleri-e2vog7m">S024E02: İlginç Konferans Deneyimleri - (40 dakika, 26 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S024E01-ehir-Hayatnn-Renkleri-Kediler--Rakunlar-ve-Teknoloji-e2vdvt4">S024E01: Şehir Hayatının Renkleri: Kediler, Rakunlar ve Teknoloji - (31 dakika, 20 saniye)</a>
 
-
 ### {{ mic_ico() }}️ Sezon 23
+
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S023E4-Mangal--Kokore-ve-AI-Destekli-Tarayclar-e2v2g19/a-abpons4">S023E4: Mangal, Kokoreç ve AI Destekli Tarayıcılar - (39 dakika, 35 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S023E3-Akll-Sprgeler--Sensrler-ve-Tuhaf-Algoritmalar-e2usr2l/a-abphnqc">S023E3: Akıllı Süpürgeler, Sensörler ve Tuhaf Algoritmalar - (47 dakika, 19 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S023E2-Eitim-Sistemi-vs--Gerek-Dnya-e2uo5s0">S023E2: Eğitim Sistemi vs. Gerçek Dünya - (37 dakika, 59 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S023E01-0-4-Ortalamadan-2-7ye-e2uj405">S023E01: 0.4 Ortalamadan 2.7’ye - (31 dakika, 20 saniye)</a>
 
 ### {{ mic_ico() }}️ Sezon 22
+
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S022E04-Fiziksel-Bedenin-tesinde-Var-Olmak-e2u8ppk/a-abooq6t">S022E04: Fiziksel Bedenin Ötesinde Var Olmak - (36 dakika, 24 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S022E03-Ofis-Absrtlklerinde-Ananasla-Serinlemek-e2u3teg">S022E03: Ofis Absürtlüklerinde Ananasla Serinlemek - (30 dakika, 3 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S022E02-Ofislerin-Gizemli-Dnyas-e2tueil">S022E02: Ofislerin Gizemli Dünyası - (29 dakika, 48 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S022E01-E-posta-Ynetiminde-Inbox-Zero-Efsanesi-e2tq27k">S022E01: E-posta Yönetiminde Inbox Zero Efsanesi - (30 dakika, 23 saniye)</a>
 
 ### {{ mic_ico() }}️ Sezon 21
+
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S021E04-Hedefler--Stratejiler-ve-Gerekler-e2tl06n">S021E04: Hedefler, Stratejiler ve Gerçekler - (53 dakika, 11 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S021E03-Troller--Trmanlar-ve-Staff-Tartmalar-e2tgejd">S021E03: Troller, Tırmanışlar ve Staff Tartışmaları - (35 dakika, 37 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S021E02-Kariyer-Tkanklklar-ve-irket-Politikalar-e2t8u7c">S021E02: Kariyer Tıkanıklıkları ve Şirket Politikaları - (49 dakika, 1 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S021E01-Yetitirilecek-Staff-Aranyor-e2t6u74">S021E01: "Yetiştirilecek Staff Aranıyor" - (39 dakika, 7 saniye)</a>
 
 ### {{ mic_ico() }}️ Sezon 20
+
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S020E04-Ne-derinlikte-renmeliyiz-e2sjgtd">S020E04: Ne derinlikte öğrenmeliyiz? - (50 dakika, 10 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S020E03-Sene-olmu-2024-e2sjglu">S020E03: Sene olmuş 2024! - (30 dakika, 5 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S020E02-Kabak-Yahnisinden-Blueskya-e2se2uq">S20E02: Kabak Yahnisinden Bluesky'a! - (39 dakika, 38 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S020E01-Silikon-Vadisinde-Dolap-Savalar-e2sd1gp">S20E01: Silikon Vadisi'nde Dolap Savaşları - (39 dakika, 16 saniye)</a>
 
 ### {{ mic_ico() }}️ Sezon 19
+
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S019E04-Vadinin-Kedileri-e2r6mm7/a-abkusk6">
-S19E04: Vadinin Kedileri - (22 dakika, 41 saniye)</a>
+  S19E04: Vadinin Kedileri - (22 dakika, 41 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S019E03-Reorg---Ben-neden-buradaym-e2r6mep/a-abkusat">S19E03: Reorg - "Ben neden buradayım?" - (22 dakika, 30 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S019E02-Mdrm-kim--Ekibim-nerede-e2r6lbq/a-abkuras">S19E02: Müdürüm kim? Ekibim nerede? - (36 dakika, 09 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S019E01-Silikon-Vadisinde-Poscasti-Olmak-e2r6k9o/a-abkuq23">S19E01: Silikon Vadisi'nde Podcastçi Olmak! - (38 dakika, 16 saniye)</a>
 
 ### {{ mic_ico() }}️ Sezon 18
+
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S018E04-Yazlm-Kariyerinde-lerlemek-e2p4ie8/a-abicujc">
-S18E04: Yazılım Kariyerinde İlerlemek - (39 dakika, 41 saniye)</a>
+  S18E04: Yazılım Kariyerinde İlerlemek - (39 dakika, 41 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S018E03-FAANG-ve-tesi-Kltrel-Uyum-e2p4i4p/a-abicuag">S18E03: FAANG ve Ötesi: Kültürel Uyum - (39 dakika, 49 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S018E02-Vadiye-Uygun-Resume-Hazrlama-pular-e2p4i1h/a-abicu3e">S18E02: Vadi’ye Uygun Resume Hazırlama İpuçları - (39 dakika, 04 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/show/vadideki-geyik/episodes/S018E01-Silikon-Vadisi-FANG-Mlakatlar-e2p4huh/a-abictv2">S18E01: Silikon Vadisi FAANG Mülakatları - (40 dakika, 12 saniye)</a>
@@ -116,7 +122,7 @@ S18E04: Yazılım Kariyerinde İlerlemek - (39 dakika, 41 saniye)</a>
 ### {{ mic_ico() }}️ Sezon 17
 
 - {{ play_ico() }} <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S017E04-Hamza-Nereye-Gidiyor-e2oa3o6/a-abh8rd9">
-S17E04: Hamza Nereye Gidiyor? - (19 dakika, 32 saniye)</a>
+  S17E04: Hamza Nereye Gidiyor? - (19 dakika, 32 saniye)</a>
 - {{ play_ico() }} <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S017E03-u-ViaNietzche-de-ok-ey-e2oa3l4/a-abh8ra3">S17E03: “Şu ViaNietzche de Çok Şey” - (30 dakika, 37 saniye)</a>
 - {{ play_ico() }} <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S017E02-Silikon-Vadisinde-Ozel-Okullar-e2oa3jb/a-abh8r85">S17E02: Silikon Vadisi’nde Özel Okullar - (30 dakika, 49 saniye)</a>
 - {{ play_ico() }} <a href="https://podcasters.spotify.com/pod/show/vadideki-geyik/episodes/S017E01-Sen-Yr-Dedi-Sensei-e2oa3hc/a-abh8r52">S17E01: “Sen Yürü” Dedi Sensei - (30 dakika, 44 saniye)</a>
@@ -243,4 +249,4 @@ S17E04: Hamza Nereye Gidiyor? - (19 dakika, 32 saniye)</a>
 
 <p>&nbsp;</p>
 
-[kampus]: https://discord.gg/kampus 'katıl kurt!'
+[kampus]: https://discord.gg/kampus "katıl kurt!"
