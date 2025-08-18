@@ -63,9 +63,9 @@ li {list-style-type: none;}
 
 ### {{ mic_ico() }}️ Sezon 25
 
-- {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S025E04-Tornavidann-zinde-Kalite--Tasarm-ve-Mteri-Sadakati-e36jm0j">S025E04: Tornavidanın İzinde: Kalite, Tasarım ve Müşteri Sadakati</a>
-- {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S025E03-AI-ile-Ayn-Evde-Yaanr-m-e35r09l">S025E03: AI ile Aynı Evde Yaşanır mı?</a>
-- {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S025E02-Hesap-Deitirmek-in-Dua-Etmeniz-Gerekebilir-e35qvug">S025E02: Hesap Değiştirmek İçin Dua Etmeniz Gerekebilir</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S025E04-Tornavidann-zinde-Kalite--Tasarm-ve-Mteri-Sadakati-e36jm0j">S025E04: Tornavidanın İzinde: Kalite, Tasarım ve Müşteri Sadakati - (30 dakika, 51 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S025E03-AI-ile-Ayn-Evde-Yaanr-m-e35r09l">S025E03: AI ile Aynı Evde Yaşanır mı? - (31 dakika, 31 saniye)</a>
+- {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S025E02-Hesap-Deitirmek-in-Dua-Etmeniz-Gerekebilir-e35qvug">S025E02: Hesap Değiştirmek İçin Dua Etmeniz Gerekebilir - (33 dakika, 22 saniye)</a>
 - {{ play_ico() }} <a href="https://creators.spotify.com/pod/profile/vadideki-geyik/episodes/S025E01-Windows-11de-AI-lgnl-Kullancy-Bunaltan-Yenilikler-e35h2t0">S025E01: Windows 11’de AI Çılgınlığı: Kullanıcıyı Bunaltan Yenilikler! - (31 dakika, 43 saniye)</a>
 
 ### {{ mic_ico() }}️ Sezon 24
